@@ -1,0 +1,11 @@
+{
+  "Pause a flow until someone approves or disapproves": "누군가 승인 또는 거부할 때까지 플로우를 일시 중지합니다",
+  "Wait for Approval": "승인 대기",
+  "Create Approval Links": "승인 링크 만들기",
+  "Pauses the flow until someone approves or disapproves": "누군가 승인 또는 거부할 때까지 플로우를 일시 중지합니다",
+  "Creates an approval link without pausing the flow": "플로우를 일시 중지하지 않고 승인 링크를 만듭니다",
+  "Markdown": "Markdown",
+  "Pauses the flow until someone picks Approve or Disapprove. They answer through the link from a **Create Approval Links** step earlier in this flow; send it to them by email or chat before this step.\n\nThis piece is legacy but still supported. For a new flow, prefer the approval actions in the Approvals tab, which send the request and wait for the answer in one step.": "누군가 승인 또는 거부를 선택할 때까지 플로우를 일시 중지합니다. 응답은 이 플로우 앞쪽의 **승인 링크 만들기** 단계에서 만든 링크를 통해 이루어지므로, 이 단계 전에 이메일이나 채팅으로 링크를 보내세요.\n\n이 피스는 레거시이지만 계속 지원됩니다. 새 플로우에서는 요청 전송과 응답 대기를 한 단계로 처리하는 승인 탭의 승인 액션을 사용하는 것을 권장합니다.",
+  "Makes a link to send by email or chat, without pausing the flow. Approval Link and Disapproval Link open the same page, where the person picks Approve or Disapprove. To pause until they answer, add a **Wait for Approval** step after you send it.\n\nThis piece is legacy but still supported. The approval actions in the Approvals tab send the request and wait for the answer in one step.": "플로우를 일시 중지하지 않고 이메일이나 채팅으로 보낼 링크를 만듭니다. 승인 링크와 거부 링크는 같은 페이지를 열며, 그곳에서 승인 또는 거부를 선택합니다. 응답할 때까지 일시 중지하려면 링크를 보낸 뒤 **승인 대기** 단계를 추가하세요.\n\n이 피스는 레거시이지만 계속 지원됩니다. 승인 탭의 승인 액션은 요청 전송과 응답 대기를 한 단계로 처리합니다.",
+  "Approval (Legacy)": "승인(레거시)"
+}
